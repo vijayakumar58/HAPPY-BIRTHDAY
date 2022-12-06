@@ -1,14 +1,14 @@
 .birth{
     display: flex;
     justify-content: center;
-    border: 10px dashed rgb(83, 241, 83);
+    border: 10px dashed rgb(36, 193, 36);
     margin: 50px;
     padding: 50px;
     font-size: larger;
     font-weight: bold;
-    background-color: rgb(15, 163, 243);
+    background-color: rgb(249, 164, 44);
     color:white;
 }
 h1{
-    padding: 10px;
+    padding: 20px;
 }
