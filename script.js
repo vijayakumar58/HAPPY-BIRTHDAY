@@ -3,7 +3,7 @@ const target=document.createElement("div");
 target.setAttribute("class","container-lg");
 target.setAttribute("class","birth")
 target.setAttribute("id","priya");
-target.innerHTML="<div><div>"
+target.innerHTML='<div class="dharshini"><div>'
 document.body.append(target);
 f1=()=>{
 setTimeout(()=>{

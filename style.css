@@ -6,6 +6,6 @@
     padding: 50px;
     font-size: larger;
     font-weight: bold;
-    background-image: radial-gradient(violet,indigo,blue,green,yellow,orange,red);
+    background-color: rgb(15, 163, 243);
     color:white;
 }
