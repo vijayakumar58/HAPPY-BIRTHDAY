@@ -1,0 +1,12 @@
+.birth{
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+    height: 450px;
+    margin: 50px;
+    padding: 50px;
+    font-size: larger;
+    font-weight: bold;
+    background-image: linear-gradient(360deg,violet,indigo,blue,green,yellow,orange,red);
+    color:white;
+}
