@@ -48,7 +48,7 @@ setTimeout(()=>{
                                     f11=()=>{
                                       setTimeout(()=>{
                                         console.log("HAPPY BIRTH DAY")
-                                        target.innerHTML=" WISH YOU MANY MORE HAPPY RETURNS OF THE DAY"
+                                        target.innerHTML="WISH YOU MANY MORE HAPPY RETURNS OF THE DAY"
                                         f12=()=>{
                                             setTimeout(()=>{
                                               console.log("P-Precious")
