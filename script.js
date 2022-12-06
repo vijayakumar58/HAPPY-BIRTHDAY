@@ -108,7 +108,7 @@ setTimeout(()=>{
                                                                                                   f26=()=>{
                                                                                                     setTimeout(()=>{
                                                                                                       console.log("PRIYA DHARSHINI")
-                                                                                                      target.innerHTML='<h1>PRIYA DHARSHINI</h1>'
+                                                                                                      target.innerHTML='<h1>PRIYA DHARSHINI 15/12/2022</h1>'
                                                                                                     },2000)
                                                                                                    }
                                                                                                    f26()
