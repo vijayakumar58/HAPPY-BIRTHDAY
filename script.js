@@ -48,7 +48,7 @@ setTimeout(()=>{
                                     f11=()=>{
                                       setTimeout(()=>{
                                         console.log("HAPPY BIRTH DAY")
-                                        target.innerHTML="WISH YOU MANY MORE HAPPY RETURNS OF THE DAY"
+                                        target.innerHTML="WISH YOU MANY MORE HAPPY RETURNS OF THE DAY (15/12/2022)"
                                         f12=()=>{
                                             setTimeout(()=>{
                                               console.log("P-Precious")
@@ -108,7 +108,7 @@ setTimeout(()=>{
                                                                                                   f26=()=>{
                                                                                                     setTimeout(()=>{
                                                                                                       console.log("PRIYA DHARSHINI")
-                                                                                                      target.innerHTML='<h1>PRIYA DHARSHINI 15/12/2022</h1>'
+                                                                                                      target.innerHTML='<h1>PRIYA DHARSHINI</h1>'
                                                                                                     },2000)
                                                                                                    }
                                                                                                    f26()
@@ -186,4 +186,4 @@ setTimeout(()=>{
  f2()
 },1000)
 }
-f1()
+f1()
