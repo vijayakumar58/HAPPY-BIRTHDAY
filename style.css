@@ -1,7 +1,7 @@
 .birth{
     display: flex;
     justify-content: center;
-    border: 2px solid black;
+    border: 10px dashed rgb(83, 241, 83);
     margin: 50px;
     padding: 50px;
     font-size: larger;
